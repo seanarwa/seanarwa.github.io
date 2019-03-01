@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name":"Sean Chang",
+    "occupation":"University Undergraduate",
+    "description":"Ideas empower innovations.",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"If you wish to contact me, please leave your message below, and I will get back to you as soon as possible.",
+    "email": "seanarwa@gmail.com\nseantc@uci.edu",
+    "phone": "949-258-2202",
+    "address":{
+      "street":"24922 Sara Lane",
+      "city":"Laguna Hills",
+      "state":"California",
+      "zip": "92653"
+    },
+    "website": "http://www.seanchang.me",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1C9aXYW1FDqZrMmxp3vsBveVvCnkuLRaa",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/seanarwa",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sean-chang-33a053137/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/seanarwa",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of California, Irvine",
+        "degree":"Computer Science B.S.",
+        "graduated":"2020",
+        "description":""
+      },
+      {
+        "school":"University High School",
+        "degree":"High School Diploma",
+        "graduated":"2016",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Inventiv Inc.",
+        "title":"Software Engineering Intern",
+        "years":"September 2017 - Present",
+        "description":""
+      },
+      {
+        "company":"GoodWater Inc.",
+        "title":"Web Developer",
+        "years":"June 2018 - Present",
+        "description":""
+      },
+      {
+        "company":"Irvine Chinese School",
+        "title":"Event Planning Assistant",
+        "years":"September 2016 - June 2018",
+        "description":""
+      },
+      {
+        "company":"Calland Engineering",
+        "title":"Soil Engineering Intern",
+        "years":"May 2015 - September 2015",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Kinjo Chatto",
+        "category":"Location-based chatting mobile application",
+        "image":"kinjo-chatto.jpg",
+        "url":"https://github.com/seanarwa/KinjoChatto"
+      },
+      {
+        "title":"TrenchCoat Raccoons",
+        "category":"Top-down shooter game with stacking raccoons",
+        "image":"trenchcoat-raccoon.jpg",
+        "url":"https://seanarwa.github.io/RaccoonGame/"
+      },
+      {
+        "title":"AlzByeMer",
+        "category":"A personalized health app that will monitor the user's Alzheimer's Disease risk level and provide recommendations and cognitive exercises.",
+        "image":"alzbyemer.jpg",
+        "url":"https://github.com/minhyeong-joe/ALZ-BYE-MER#alz-bye-mer"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
