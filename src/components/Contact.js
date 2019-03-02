@@ -2,23 +2,7 @@ import React, { Component } from 'react';
 
 class Contact extends Component {
 
-  state = {
-    name: '',
-    email: '',
-    subject: '',
-    message: ''
-  }
-
-  // clearForm() {
-  //   document.getElementById("contactName").value = "";
-  //   document.getElementById("contactEmail").value = "";
-  //   document.getElementById("contactSubject").value = "";
-  //   document.getElementById("contactMessage").value = "";
-  // }
-
   render() {
-
-
 
     if(this.props.data){
       var name = this.props.data.name;
@@ -27,7 +11,7 @@ class Contact extends Component {
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
-      var email = this.props.data.email;
+      // var email = this.props.data.email;
       var message = this.props.data.contactmessage;
     }
 
