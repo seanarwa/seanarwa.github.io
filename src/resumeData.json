@@ -126,6 +126,12 @@
         "category":"A personalized health app that will monitor the user's Alzheimer's Disease risk level and provide recommendations and cognitive exercises.",
         "image":"alzbyemer.jpg",
         "url":"https://github.com/minhyeong-joe/ALZ-BYE-MER#alz-bye-mer"
+      },
+      {
+        "title":"Search Engine",
+        "category":"A ReactJS Web application implementation of a realtime search engine of crawed UCI ICS websites",
+        "image":"search-engine.jpg",
+        "url":"https://shielded-ocean-93306.herokuapp.com/"
       }
     ]
   },
