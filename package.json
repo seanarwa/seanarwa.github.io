@@ -20,8 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-	"setup": "cat CNAME > build/CNAME",
-    "deploy": "yarn run setup && gh-pages -b master -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
