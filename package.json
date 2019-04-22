@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-	"setup": "echo \"www.seanchang.me\" > build/CNAME",
+	"setup": "cat CNAME > build/CNAME",
     "deploy": "yarn run setup && gh-pages -b master -d build"
   },
   "eslintConfig": {
