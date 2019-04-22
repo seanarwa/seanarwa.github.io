@@ -52,15 +52,15 @@
     ],
     "work":[
       {
-        "company":"Inventiv Inc.",
-        "title":"Software Engineering Intern",
-        "years":"September 2017 - Present",
+        "company":"IDEMIA Identity & Security USA LLC.",
+        "title":"Software Development Intern",
+        "years":"March 2019 - Present",
         "description":""
       },
       {
-        "company":"GoodWater Inc.",
-        "title":"Web Developer",
-        "years":"June 2018 - Present",
+        "company":"Inventiv Inc.",
+        "title":"Software Engineering Intern",
+        "years":"September 2017 - Present",
         "description":""
       },
       {
@@ -78,28 +78,28 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
+        "name":"React Native",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"React",
+        "level":"30%"
+      },
+      {
+        "name":"Google Flutter",
+        "level":"20%"
+      },
+      {
+        "name":"Docker",
         "level":"50%"
+      },
+      {
+        "name":"AWS",
+        "level":"60%"
+      },
+      {
+        "name":"Angular",
+        "level":"30%"
       },
       {
         "name":"MongoDB",
@@ -132,6 +132,12 @@
         "category":"A ReactJS Web application implementation of a realtime search engine of crawed UCI ICS websites",
         "image":"search-engine.jpg",
         "url":"https://shielded-ocean-93306.herokuapp.com/"
+      },
+      {
+        "title":"Reddit Downloader",
+        "category":"Web based Windows application for downloading reddit posts/images",
+        "image":"reddit-downloader.jpg",
+        "url":"https://github.com/seanarwa/RedditDownloader"
       }
     ]
   },
