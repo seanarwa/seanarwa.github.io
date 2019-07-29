@@ -15,7 +15,7 @@
       "zip": "92653"
     },
     "website": "http://www.seanchang.me",
-    "resumedownload":"https://drive.google.com/uc?export=download&id=1C9aXYW1FDqZrMmxp3vsBveVvCnkuLRaa",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1SZdP-l8bY75p117QlgBy3JcmX7bDy-7Z",
     "social":[
       {
         "name":"facebook",
@@ -77,6 +77,10 @@
       }
     ],
     "skills":[
+      {
+        "name":"Flutter",
+        "level":"50%"
+      },
       {
         "name":"React Native",
         "level":"80%"
