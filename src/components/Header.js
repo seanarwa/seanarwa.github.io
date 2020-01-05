@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import QueueAnim from 'rc-queue-anim';
 
 class Header extends Component {
   render() {
@@ -31,13 +32,16 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h2 style={{color: '#FFFFFF'}}>Hi, I am</h2>
-            <h1 className="responsive-headline">{name}</h1>
-            <h3><span>{description}</span></h3>
-            <hr />
-            <ul className="social">
+         <QueueAnim interval={300} duration={1000}>
+            <div key="1"><h2 style={{color: '#FFFFFF'}}>This is</h2></div>
+            <div key="2"><h1 className="responsive-headline">{name}</h1></div>
+            <h3 key="3"><span>{description}</span></h3>
+            <hr key="3" />
+            <ul key="3" className="social">
                {networks}
             </ul>
+         </QueueAnim>
+         
          </div>
       </div>
 
