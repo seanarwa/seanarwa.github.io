@@ -2,7 +2,7 @@
   "main": {
     "name":"Sean Chang",
     "occupation":"University Undergraduate",
-    "description":"Ideas empower innovations.",
+    "description":"Google Flutter is the future. Change my mind.",
     "image":"profilepic.jpg",
     "bio":"",
     "contactmessage":"If you wish to contact me, please leave your message below, and I will get back to you as soon as possible.",
@@ -42,12 +42,6 @@
         "degree":"Computer Science B.S.",
         "graduated":"2020",
         "description":""
-      },
-      {
-        "school":"University High School",
-        "degree":"High School Diploma",
-        "graduated":"2016",
-        "description":""
       }
     ],
     "work":[
@@ -61,18 +55,6 @@
         "company":"Inventiv Inc.",
         "title":"Software Engineering Intern",
         "years":"September 2017 - Present",
-        "description":""
-      },
-      {
-        "company":"Irvine Chinese School",
-        "title":"Event Planning Assistant",
-        "years":"September 2016 - June 2018",
-        "description":""
-      },
-      {
-        "company":"Calland Engineering",
-        "title":"Soil Engineering Intern",
-        "years":"May 2015 - September 2015",
         "description":""
       }
     ],
@@ -125,23 +107,29 @@
         "image":"trenchcoat-raccoon.jpg",
         "url":"https://seanarwa.github.io/RaccoonGame/"
       },
-      {
+	  {
         "title":"AlzByeMer",
         "category":"A personalized health app that will monitor the user's Alzheimer's Disease risk level and provide recommendations and cognitive exercises.",
         "image":"alzbyemer.jpg",
         "url":"https://github.com/minhyeong-joe/ALZ-BYE-MER#alz-bye-mer"
       },
-      {
-        "title":"Search Engine",
-        "category":"A ReactJS Web application implementation of a realtime search engine of crawed UCI ICS websites",
-        "image":"search-engine.jpg",
-        "url":"https://shielded-ocean-93306.herokuapp.com/"
+	  {
+        "title":"Countdown",
+        "category":"Death? There's an app for that.",
+        "image":"countdown.png",
+        "url":"https://play.google.com/store/apps/details?id=me.seanchang.countdown"
       },
-      {
-        "title":"Reddit Downloader",
-        "category":"Web based Windows application for downloading reddit posts/images",
-        "image":"reddit-downloader.jpg",
-        "url":"https://github.com/seanarwa/RedditDownloader"
+	  {
+        "title":"Ripplink",
+        "category":"Bringing more meaning to who you connect with in our digitally-driven world.",
+        "image":"ripplink.png",
+        "url":"https://www.ripplink.co/"
+      },
+	  {
+        "title":"CoolCraig",
+        "category":"UCI research project to study the behaviors of ADHD adolescents using Apple Watch",
+        "image":"uci-ics.png",
+        "url":"https://github.com/seanarwa/coolcraig"
       }
     ]
   },
